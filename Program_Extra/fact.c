@@ -1,4 +1,0 @@
-void fact(){
-	printf("dsadas");
-}
-
